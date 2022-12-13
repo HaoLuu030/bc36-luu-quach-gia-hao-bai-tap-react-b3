@@ -1,0 +1,12 @@
+.modal-dialog.shoeDetails {
+  max-width: 700px;
+  text-align: left;
+}
+
+.tb-heading {
+  font-weight: bold;
+}
+
+.priceTag {
+    font-size: 20px;
+}
